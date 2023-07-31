@@ -10,7 +10,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 
 ## Key Findings
 #### Overview
-![ky1](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/b3ae1ce3-0aa5-43b8-a978-3dd87cbd36d3)
+![ky1](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/b2d52a59-3bbd-448c-9def-1037cec1dff7)
 
 #### Customer Delivery Analysis
 ![ky2](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/85fc5a98-28ab-4821-a946-b5189627d7c4)
