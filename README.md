@@ -1,5 +1,7 @@
 # AtliQ-Mart-Supply-Chain-Data-Analysis
 
+Live Dashboard: [AtliQ Mart Supply Chain Analysis](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
+
 ## Problem statement
 
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad, and Vadodara. They want to expand to other metro/tier 1 cities in the next 2 years.
