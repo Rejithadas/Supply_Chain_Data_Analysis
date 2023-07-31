@@ -13,12 +13,12 @@ The Supply Chain team decided to use a standard approach to measure the service 
 ![ky1](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/b2d52a59-3bbd-448c-9def-1037cec1dff7)
 
 #### Customer Delivery Analysis
-![ky2](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/85fc5a98-28ab-4821-a946-b5189627d7c4)
-![ky3](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/1c19a2d4-d465-4310-bd99-44121b30aa06)
+![ky2](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/065e71af-3dc0-40c0-8e95-d4ca9087cdf8)
+![ky3](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/172d0403-2fe9-4b2f-ba94-fb07b003f772)
 
 #### Order Line Analysis  
-![ky4](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/074c2d2f-6845-4eb1-a3f9-fdae8d84c20e)
+![ky4](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/81c2da58-6d20-4850-8e5e-069553d4f2da)
 
 #### Delivery Analysis
-![ky5](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/a14dafa9-6593-46a2-8887-14ce0586248a)
-![ky6](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/1ecb5fe3-f9f4-4e36-8d52-71818d9d49d0)
+![ky5](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/efc80ed8-1b64-4008-ae30-6e271c210abd)
+![ky6](https://github.com/Rejithadas/AtliQ-Mart-Supply-Chain-Data-Analysis/assets/101463488/0253090b-c266-4cba-9e17-b55548f5354a)
