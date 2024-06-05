@@ -1,7 +1,6 @@
 # AtliQ-Mart-Supply-Chain-Data-Analysis
 
-Live Dashboard: [AtliQ Mart Supply Chain Analysis][(https://app.powerbi.com/groups/me/reports/bda77998-95aa-4749-a740-dfc777b8c775/ReportSectiond01655a875a9c2604df6?experience=power-bi)
-](https://app.powerbi.com/view?r=eyJrIjoiOTY3NjE5MjUtYzFkMy00MzRiLTg4MmYtNzg2NTYyYTQyMjdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Live Dashboard: [AtliQ Mart Supply Chain Analysis](https://app.powerbi.com/view?r=eyJrIjoiOTY3NjE5MjUtYzFkMy00MzRiLTg4MmYtNzg2NTYyYTQyMjdlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem statement
 
