@@ -1,6 +1,6 @@
 # AtliQ-Mart-Supply-Chain-Data-Analysis
 
-Live Dashboard: [AtliQ Mart Supply Chain Analysis](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-4)
+Live Dashboard: [AtliQ Mart Supply Chain Analysis](https://app.powerbi.com/groups/me/reports/bda77998-95aa-4749-a740-dfc777b8c775/ReportSectiond01655a875a9c2604df6?experience=power-bi))
 
 ## Problem statement
 
